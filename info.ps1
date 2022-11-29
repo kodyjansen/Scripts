@@ -1,0 +1,5 @@
+$hardware = Get-Computerinfo
+
+$hardware
+
+

@@ -1,0 +1,1 @@
+Get-Computerinfo | Select-Object "CsDNSHostName"

@@ -1,0 +1,1 @@
+Get-CimInstance -Class Win32_ComputerSystem | Select-Object -property TotalPhysicalMemory, Model
